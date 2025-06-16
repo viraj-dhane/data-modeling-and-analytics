@@ -7,7 +7,7 @@ PostgreSQL
 
 This exercise involves
 
-  - Designing a data model
+  - Designing a data model for social media platform (e.g. Instagram)
   - Creating different tables based on developed data model
   - Generating SQL create table statements
   - Inserting dummy data into tables
