@@ -1,4 +1,4 @@
-# Data Modeling and Analyitcs Exercise
+# Data Modeling and Analyitcs Exercise 1
 PostgreSQL
 
 ---
